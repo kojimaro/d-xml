@@ -5,5 +5,55 @@
 </result>
 <data>
   <offer_id>1904240000060001</offer_id>
+  <status>1</status>
+  <carryin_date>2019/06/10</carryin_date>
+  <carryout_date>2019/06/30</carryout_date>
+  <corp_name>株式会社大新社 神戸支店</corp_name>
+  <hire_s>201 202</hire_s>
+  <catch>求人広告”ディースター”の原稿作成補助スタッフ募集！未経験OK♪女性活躍中です♪</catch>
+  <title1>【広告営業の魅力】営業にはさまざまなタイプがありますが、中でも広告の営業は奥が深いものです。なぜなら広告は掲載すれば必ず効果(反響)が出るという訳ではないからです。</title1>
+  <title2>サンプルです</title2>
+  <job_detail>原稿制作補助スタッフ</job_detail>
+  <job_more_detail>求人広告ディースターの原稿作成補助、チェック、電話対応等</job_more_detail>
+  <job_special>営業、制作、事務とチームワークは抜群です♪初心者の方でも分かりやすく説明しますので安心して下さい。仕事を通じてスキルアップできる環境があります。</job_special>
+  <job_s_cd>A01</job_s_cd>																																																						
+	<area_free>兵庫県神戸市中央区御幸通6-1-15　御幸ビル5F</area_free>																																																						
+	<pref>28</pref>																																																						
+	<city_id>28110</city_id>																																																						
+	<corse>各線「三宮駅」より徒歩5分</corse>																																																						
+  <offer_license>簡単なPC操作のできる方																																																						
+			※イラストレーターできる方歓迎！(できなくても可)</offer_license>																																																								
+	<job_time>10:00～18:00の間で応相談																																																						
+			※月～金のうち週3日～5日で応相談</job_time>																																																								
+	<term>特に無し</term>																																																						
+	<joboff>土・日・祝、他</joboff>																																																						
+	<pay>時給 871円</pay>																																																						
+	<pay_other>※試用期間1～3ヶ月間は月給17万円</pay_other>
+  					<condition>交通費全額支給</condition>																																																						
+					<employ_schedule>「応募する」をクリックして応募フォームに必要事項を入力し、送信してください。																																																						
+			応募後、各応募先の選考方法に従ってお進みください。																																																								
+			お電話でのお問い合わせも受け付けております。</employ_schedule>																																																								
+					<contact_tel>078-261-3911</contact_tel>																																																						
+					<contact_name>採用担当</contact_name>																																																						
+					<other_call>06-0000-0000</other_call>																																																						
+					<map>																																																						
+						<kbn>1</kbn>																																																					
+						<caption>神戸市中央区</caption>																																																					
+						<lat>34.6932494</lat>																																																					
+						<lng>135.1973874</lng>																																																					
+					</map>																																																						
+					<map>																																																						
+						<kbn>2</kbn>																																																					
+						<caption>会社所在地</caption>																																																					
+						<lat>34.73395</lat>																																																					
+						<lng>135.495765</lng>																																																					
+					</map>																																																						
+					<map>																																																						
+						<kbn>3</kbn>																																																					
+						<caption>面接会場</caption>																																																					
+						<lat>34.733952</lat>																																																					
+						<lng>135.495776</lng>																																																					
+					</map>																																																						
+					<youtube_embed_code>CDATA[[<object width="480" height="360"><param name="movie" value="https://www.youtube.com/v/-n4_U0DCdAU?version=3&amp;hl=ja_JP&amp;rel=0"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="https://www.youtube.com/v/-n4_U0DCdAU?version=3&amp;hl=ja_JP&amp;rel=0" type="application/x-shockwave-flash" width="480" height="360" allowscriptaccess="always" allowfullscreen="true"></embed></object>]]</youtube_embed_code>																																																						
 </data>
 </response>
